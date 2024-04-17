@@ -7,7 +7,7 @@ Este proyecto es una aplicacion demo usando Thymeleaf para mostrar una lista de 
 
 🔧 Back-end desarrollado en [Springboot 3.0]
 
-    Video funcionamiento: Proximamente
+    Video funcionamiento: https://youtu.be/eDAOFk3W7eM
 
 🔧 Base de datos en MySQL
 
