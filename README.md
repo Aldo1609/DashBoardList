@@ -46,7 +46,7 @@ VALUES (25, 654321, 1);
 
 ## Referencias
 
-Existen dos endopoints
+Existen dos endpoints
 
 - http://localhost:8080/dashboard (Muestra las ordenes con thymeleaf)
 - http://localhost:8080/error (Esta pantalla se mostrara siempre que la url este mal)
